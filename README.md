@@ -2,7 +2,7 @@
 > ## Purpose
 I want to challenge myself and learn new things. 
 
-Gallery is necessary knowledge for website so I learn and make it
+Gallery is essential for some websites so I learn and make it
 > ## Desscription
 Here is a challenge on FrontendMentor.io. 
 
